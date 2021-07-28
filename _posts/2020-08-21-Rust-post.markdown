@@ -1,0 +1,103 @@
+---                                                                         
+layout: post
+title:  "First post - My beginning on Rust"
+date:   2020-08-21 07:59:45 +0000
+categories: articles
+---
+
+This is my first post on Rust and on my blog. I'm currently learning Rust and I just thought that I wanted to share my learning with you.
+
+If you are unfamiliar with Rust, please find different resources for the language, like the [offical website](https://www.rust-lang.org/) , the [cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) , on the [FAQ](https://github.com/dtolnay/rust-faq) , the curated [list](https://github.com/Canop/awesome-rust) of resources for Rust maintained by [Dystroy](https://dystroy.org/). 
+If you are looking for videos instead, these [videos](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL) provided by [Dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g) explain Rust well, from fundamentals to more complex topics.  
+
+So where do we start?
+
+First things, first, you need to install Rust on your machine. If it is already done, skip to part 2 aka create your next project
+
+Part 1:
+
+Go to the following page : 
+
+- [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
+
+If you are on Linux or Mac, type the following command line on your bash prompt
+
+{% highlight shell %}
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+{% endhighlight %}
+
+if you are on Windows, please install the file `rustup-init.exe` you will have to download from the official website.
+
+Note: The official site of Rust knows if you are on Windows or on Linux. If you are on Windows, it will propose you  
+to download the binaries and install it on your machine.
+
+Part 2:
+
+Once done, you need to start a project. If like me, you went through Rust official's doc, you found out there is [rustc](https://doc.rust-lang.org/rustc/what-is-rustc.html), the compiler. Although correct, we will run `cargo`, the package manager.
+It runs rustc and does some extra work (e.g. resolves dependencies).
+
+To create a new project:
+
+{% highlight shell %}
+
+cargo new new_project
+
+{% endhighlight %}
+
+The structure of the folder will be like:
+
+		new_project
+		├── Cargo.toml
+		└── src
+		    └── main.rs
+
+The `main.rs` file is where we are going to put our code. 
+
+Part 3:
+
+After editing the `main.rs` file, you should see the code below.
+
+{% highlight rust %}
+
+fn main() {
+	println!("Hello World");
+    }
+}
+//print Hello World
+{% endhighlight %}
+
+To run, the code, type at the root of your `new_project` :
+
+{% highlight shell %}
+
+cargo run
+
+{% endhighlight %}
+
+The result below should appear
+
+{% highlight shell %}
+
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/new_project`
+Hello, world!
+
+{% endhighlight %}
+
+This is the first step on how to create a new project on Rust.
+
+Tips: 
+
+- `println!` is a macro. I will discuss this part, much later
+- Almost all commands in rust end with a `;` (semi-colon)
+- If you are unfamiliar with the formatting of Rust code, you can type `cargo fmt`, your code 
+  will be formatted in a proper way.
+
+You can follow the links below, which give more detail about Cargo, Rustc
+
+- [https://stackoverflow.com/a/44484426/2572645](https://stackoverflow.com/a/44484426/2572645)
+- [https://doc.rust-lang.org/rustc/what-is-rustc.html](https://doc.rust-lang.org/rustc/what-is-rustc.html)
+- [https://riptutorial.com/rust/example/3481/create-new-project](https://riptutorial.com/rust/example/3481/create-new-project)
+- [https://stackoverflow.com/questions/26946646/rust-package-with-both-a-library-and-a-binary](https://stackoverflow.com/questions/26946646/rust-package-with-both-a-library-and-a-binary)
