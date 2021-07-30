@@ -35,7 +35,7 @@ categories: articles
 
 To run it:
 
-I've created an alias 
+I've created an alias with a concatenated command. 
 
 ```bash
 BU='rm -rf /home/myusername/www/_site && jekyll build --source '\''/home/myusername/cloned_projects/www/'\'' && sudo rm -rf /var/www/* && sudo cp -rf _site/* /var/www'
