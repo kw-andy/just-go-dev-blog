@@ -24,7 +24,7 @@ To write a post (an article):
 - That file once compiled, will be turn into a HTML format 
 - Inside of the markdown, please put the meta-info below
 
-```
+```yaml
 ---
 layout: post
 title:  "`My title"
@@ -37,6 +37,8 @@ To run it:
 
 I've created an alias 
 
-`BU='rm -rf /home/myusername/www/_site && jekyll build --source '\''/home/myusername/cloned_projects/www/'\'' && sudo rm -rf /var/www/* && sudo cp -rf _site/* /var/www'`
+```bash
+BU='rm -rf /home/myusername/www/_site && jekyll build --source '\''/home/myusername/cloned_projects/www/'\'' && sudo rm -rf /var/www/* && sudo cp -rf _site/* /var/www'
+```
 
 Once everything is ready for posting, type `BU` and hit ENTER
