@@ -42,3 +42,10 @@ BU='rm -rf /home/myusername/www/_site && jekyll build --source '\''/home/myusern
 ```
 
 Once everything is ready for posting, type `BU` and hit ENTER
+
+Note: 
+
+To add up a few things
+
+- Markdown basic syntax guide : https://www.markdownguide.org/basic-syntax/
+- Troubleshooting : if you have issue with public-suffix -> https://talk.jekyllrb.com/t/could-not-find-public-suffix-3-0-1-in-any-of-the-sources-bundler-gemnotfound/1603
