@@ -37,6 +37,6 @@ To run it:
 
 I've created an alias 
 
-BU='rm -rf /home/myusername/www/_site && jekyll build --source '\''/home/myusername/cloned_projects/www/'\'' && sudo rm -rf /var/www/* && sudo cp -rf _site/* /var/www'
+`BU='rm -rf /home/myusername/www/_site && jekyll build --source '\''/home/myusername/cloned_projects/www/'\'' && sudo rm -rf /var/www/* && sudo cp -rf _site/* /var/www'`
 
 Once everything is ready for posting, I type `BU` and hit ENTER
