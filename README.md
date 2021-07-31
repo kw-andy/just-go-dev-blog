@@ -27,7 +27,7 @@ To write a post (an article):
 ```yaml
 ---
 layout: post
-title:  "`My title"
+title:  "My title"
 date:   YYYY-MM-DD HH:MM:SS +0000
 categories: articles
 ---
