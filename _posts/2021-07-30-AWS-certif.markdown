@@ -7,8 +7,8 @@ categories: articles
 
 I got certified a few weeks ago, my first certification with AWS. 
 
-I wanted to go on a long rant but honestly, this can be boring to read. 
-I will go for a merry Q&A with myself and I, hopefully funny to read.
+I wanted to go on a long rant but honestly, this can be boring read. 
+I will go for a merry Q&A with myself and I, hopefully funnier to read.
 
 Let's start.
 
@@ -55,11 +55,11 @@ but a bit less than what I was expecting (Ed: He was expecting 90%)
 And obviously, on d-day, stress will make your score lower than expected.
 For the cloud practioner, AWS through the aws training [website](https://www.aws.training/), offers you 
 a AWS Cloud Practitioner Essentials course that is a day format with real trainers.  
-That training is free.I had two trainers, ---- and [Tom of AWS](https://aws.amazon.com/fr/partners/training/) who were absolutely amazing, in their enthusiasm and their amazing teaching skills.  
+That training is free. I had two trainers, ---- and [Tom of AWS](https://aws.amazon.com/fr/partners/training/) who were absolutely amazing, in their enthusiasm with great teaching skills.  
 Thank you ---- and Tom.
 
 **Q**: Thank you again for your time. Do you have any last trick you want to share with us about 
-some not tidy desk?  
+a desk that was not that tidy...?  
 **A**: Ha ha. I went for my certificate with a quite cluttered desk. Never, ever. Make sure that your desk is clean and uncluttered otherwise the proctor won't start the exam.
 
 **Ed**: Thank you  
