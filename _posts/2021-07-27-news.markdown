@@ -1,0 +1,20 @@
+---                                                                         
+layout: post
+title:  "It's been a year"
+date:   2021-07-28 07:59:45 +0000
+categories: articles
+---
+
+It's been a year since my last post on my blog.
+
+Time has been flying but it has been a ride, so far!
+
+I want to talk about things that i've been doing this year, to name a few, 
+learning, teaching, building and [passing exam](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+
+Not sure how I will talk about these subjects but I will be more often on this blog 
+as I have things to share with you. Technically, not doubt but also on a personnal perspective, how I've learnt or I taught these subjects.
+
+Welcome back to my blog.
+
+
