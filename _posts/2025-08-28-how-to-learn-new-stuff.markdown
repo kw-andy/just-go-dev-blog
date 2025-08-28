@@ -1,23 +1,27 @@
+When time feels scarce, learning new things is not a priority.  
+
+Yet, in an exponentially changing world, the need to stay curious is real — and learning new things helps us stay relevant.  
+
 ---
-layout: post
-title:  "Where to Learn New Things"
-date:   2025-08-28 09:35:13 +0000
-categories: articles
+
+One of the things I look for are sources of information that are short (e.g., 5 to 15 minutes to read).  
+
+Newsletters are the easiest entry point, depending on who writes them.  
+
+- One of my favourites is [**Bitecode**](https://www.bitecode.dev/){:target="_blank" rel="noopener"}, with practical insights on Python, perspectives on the dev job, and — last but not least — new tools.  
+- I also enjoy [**Cassidy’s newsletter**](https://cassidoo.co/newsletter/){:target="_blank" rel="noopener"} for its mix of tech and humor. They land in my inbox bite-sized — interesting, sometimes not, but always thought-provoking.  
+- Another one is [**TLDR**](https://tldr.tech/newsletters){:target="_blank" rel="noopener"}, 5 minutes for everything you need to know.  
+
 ---
 
-When time feels scarce, learning new things are not a priority. 
-Yet, in an ever exponentialy changing world, the need to stay curious is real and learning new things help us to stay relevant.
+I’m also following blogs. One I like is [**Stéphane Robert’s blog**](https://blog.stephane-robert.info/post/){:target="_blank" rel="noopener"}, which focuses on DevOps.  
 
-One of the things I need are source of informations that are quite short (e.g 5mn to 15mn to read).
-Newsletters are an easiest entry point regarding who write them. 
-One of my favourite NL is [**Bitecode**](https://www.bitecode.dev/) its practical insights focusing on Python, his/her insight of the dev job and last but not least, new tools. 
-Another one I enjoy very much is [**Cassidy’s newsletter**](https://cassidoo.co/newsletter/) for its mix of tech and humor. They land in my inbox, bite-sized, intesting, sometime not but always mind challenging.
-Another one is [**TLDR**](https://tldr.tech/newsletters), 5 minutes for everything you need to know  
+---
 
-I'm also following blog, the first one is [**Stéphane Robert’s blog**](https://blog.stephane-robert.info/post/), it talks about devops. 
+Depending on my workload, I also pursue certifications as a way to stay in touch with the market and workplace trends. Last July, I became certified as a [**SAFe Agilist**](https://scaledagile.com/certification/safe-agilist/){:target="_blank" rel="noopener"} (Agile at Scale).  
 
-It depends also on my workload but going after a certification is a way to be in touch with the market, the new trend of the workplace. I became certified as a [**SAFe Agilist**](https://scaledagile.com/certification/safe-agilist/), agile at scale last july.  
+---
 
-Learning doesn't often needs a lot of time, a few dozen of minutes daily. Slowly but certainly, these precious minutes add up and keep the curiosity alive. 
+Learning doesn’t always need a lot of time — just a few dozen minutes daily. Slowly but surely, these precious minutes add up and keep curiosity alive.  
 
-“A curious mind is like a flower that needs daily drops of wonder to flourish.”
+> “A curious mind is like a flower that needs daily drops of wonder to flourish.”  
