@@ -35,10 +35,14 @@ categories: articles
 
 To run it:
 
-I've created an alias with a concatenated command. 
+create an alias with a concatenated command. 
 
 ```bash
-BU='rm -rf /home/myusername/www/_site && jekyll build --source '\''/home/myusername/cloned_projects/www/'\'' && sudo rm -rf /var/www/* && sudo cp -rf _site/* /var/www'
+alias BU='set -e; \
+  cd /home/andykw/blog.just-go.dev && \
+    JEKYLL_ENV=production bundle exec jekyll build --source /home/andykw/blog.just-go.dev --destination /home/andykw/blog.just-go.dev/_site && \
+      sudo mkdir -p /var/www/html/blog.just-go.dev && \
+        sudo rsync -a --delete /home/andykw/blog.just-go.dev/_site/ /var/www/html/blog.just-go.dev/'
 ```
 
 Once everything is ready for posting, type `BU` and hit ENTER
