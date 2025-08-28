@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Where to Learn New Things"
+title:  "Where to Learn New Things when time is scare"
 date:   2025-08-28 09:35:13 +0000
 categories: articles
 ---
