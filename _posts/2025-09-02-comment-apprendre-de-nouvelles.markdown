@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment apprendre de nouvelles choses quand on manque de temps?"
-date:   2025-09-02 09:35:13 +0000
+date:   2025-09-01 09:35:13 +0000
 categories: articles
 ---
 
@@ -14,6 +14,7 @@ Une de mes NL préférées est [**Bitecode**](https://www.bitecode.dev/){:target
 Une autre que j’apprécie beaucoup est [**la newsletter de Cassidy**](https://cassidoo.co/newsletter/){:target="_blank" rel="noopener"} pour son mélange de tech et d’humour.  
 Il y a aussi [**TLDR**](https://tldr.tech/newsletters){:target="_blank" rel="noopener"}, 5 minutes pour tout ce qu’il faut savoir.
 NDLR : Ces NL sont en anglais (mais d'un autre côté, difficile d'échapper à l'anglais quand on travaille dans la tech).  
+
 Toutes ces newsletters arrivent dans ma boîte mail : parfois passionnantes, parfois moins, mais toujours stimulantes intellectuellement.  
 
 Je suis aussi quelques blogs, le mien évidemment mais aussi celui que j’apprécie particulièrement : [**le blog de Stéphane Robert**](https://blog.stephane-robert.info/post/){:target="_blank" rel="noopener"}, qui parle de devops et qui est en français.
